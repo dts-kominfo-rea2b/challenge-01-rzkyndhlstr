@@ -29,7 +29,7 @@ const secondUser = {
         { name: "SMA 01", city: "Surabaya", graduate: 2016 },
         { name: "Universitas Maju", city: "Tangerang" }
     ],
-    favoriteRestaurant: ["Tempura", "Bento", "Sushi", "Pancake", "Pancake", "Padang", "Katsu", "Geprek", "Eggy"]
+    favoriteRestaurant: ["Tempura", "Bento", "Sushi", "Pancake", "Padang", "Katsu", "Geprek", "Eggy"]
 };
 
 // TODO: Masukkan hasil akhir dari kedua user di sini
